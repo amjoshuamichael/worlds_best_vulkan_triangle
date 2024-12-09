@@ -1,0 +1,3 @@
+[submodule "idiomatic_odin_vulkan_bindings"]
+	path = idiomatic_odin_vulkan_bindings
+	url = https://codeberg.org/aaaash/idiomatic_odin_vulkan_bindings
